@@ -15,8 +15,8 @@
 - [corpus.shukebeta.com](https://corpus.shukebeta.com) This small project is actually an one PHP file project, but it's really useful for learning new words. You could easily find sample sentences for a specific word or phrase in English or Chinese in seconds. [show me the code](https://github.com/shukebeta/ec_corpus)
 
 ## 🤖 About me
-- I love straightforward way in communication, and hate wasting time.
+- I love straightforward communication, and hate wasting time.
 - Sometimes I think I am still a boy, though I am already a father of two boys.
-- I love ingressing, hiking, and camping in my spare time.
+- I love playing Ingress game, hiking, and camping in my spare time.
 
 This Readme.md page is inspired by [Queensfeery](https://github.com/queensferryme)
