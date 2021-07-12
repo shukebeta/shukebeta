@@ -18,5 +18,6 @@
 - I love straightforward communication, and hate wasting time.
 - Sometimes I think I am still a boy, though I am already a father of two boys.
 - I love playing Ingress game, hiking, and camping in my spare time.
+- **I’m currently on the search for new opportunities and would love to collaborate.**
 
 This Readme.md page is inspired by [Queensfeery](https://github.com/queensferryme)
