@@ -7,7 +7,11 @@
 - I am experienced in C#/PHP/Javascript, which means I have been working on many projects using these languages. I am familiar with Python/Delphi/Java, which means I know their syntax very well, and have done some tiny projects with them. I also write scripts in Bash scripts that help me out from boring repetitive tasks.
 - I know SVN very well, but Git is my favorite VCS tool. 
 - I love docker, if a service can be deployed by docker-compose, I would like to deploy it that way.
-- Node.js is also great. I find myself writing more and more back-end code using node.js
+- I find myself writing more and more back-end code using node.js
+- I am the Chinese Translator of three programming books, which are:
+  - Pro PHP and jQuery
+  - Pro jQuery (2nd)
+  - Smashing jQuery
 
 ## 🌀 Projects
 
@@ -18,6 +22,7 @@
 - I love straightforward communication, and hate wasting time.
 - Sometimes I think I am still a boy, though I am already a father of two boys.
 - I love playing Ingress game, hiking, and camping in my spare time.
+- I hold a post-study work visa that expires Feb. 2022, so I have the right work for any employer in New Zealand.
 - **I’m currently on the search for new opportunities and would love to collaborate.**
 
 This Readme.md page is inspired by [Queensfeery](https://github.com/queensferryme)
