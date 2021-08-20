@@ -11,7 +11,7 @@
 - I am the Chinese Translator of three programming books, which are:
   - Pro PHP and jQuery (深入PHP与jQuery开发)
   - Pro jQuery (2nd) (精通 jQuery)
-  - Smashing jQuery (精采绝伦的jQuery)
+  - Smashing jQuery (精彩绝伦的jQuery)
 - I am also the technical Reviewer / Proofreader of the classic Javascript book "DOM Scripting" (Javascript DOM编程艺术第二版), I paid a lot of effort on these books, and I am happy that they have helped so many web developers. [Reference](https://www.ituring.com.cn/search/result?q=%E9%AD%8F%E5%BF%A0)
 
 ## 🌀 Projects
