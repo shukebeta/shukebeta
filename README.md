@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am David. 👋
 [![blog](https://blog.shukebeta.com/favicon.ico)](https://blog.shukebeta.com) [![](https://img.shields.io/badge/-Email-c2392a?logo=Gmail&logoColor=white&style=flat-square)](mailto://weizhong2004@gmail.com) [![](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/shukebeta) [![](https://img.shields.io/badge/-RSS-ffa500?logo=RSS&logoColor=fff&style=flat-square)](https://blog.shukebeta.com/feed/) [![](https://img.shields.io/badge/-Telegram-2ca5e0?labelColor=fafafa&logo=Telegram&logoWidth=13&style=flat-square)](https://t.me/shukebeta)  [![](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/shukebeta)
 
 >   **Be positive, and always embrace changes**
@@ -9,9 +9,10 @@
 - I love docker, if a service can be deployed by docker-compose, I would like to deploy it that way.
 - I find myself writing more and more back-end code using node.js
 - I am the Chinese Translator of three programming books, which are:
-  - Pro PHP and jQuery
-  - Pro jQuery (2nd)
-  - Smashing jQuery
+  - Pro PHP and jQuery (深入PHP与jQuery开发)
+  - Pro jQuery (2nd) (精通 jQuery)
+  - Smashing jQuery (精采绝伦的jQuery)
+- I am also the technical Reviewer / Proofreader of the classic Javascript book "DOM Scripting" (Javascript DOM编程艺术第二版), I paid a lot of effort on these books, and I am happy that they have helped so many web developers. [Reference](https://www.ituring.com.cn/search/result?q=%E9%AD%8F%E5%BF%A0)
 
 ## 🌀 Projects
 
