@@ -1,7 +1,27 @@
 ### Hi there, I am David. 👋
+
 [![blog](https://blog.shukebeta.com/favicon.ico)](https://blog.shukebeta.com) [![](https://img.shields.io/badge/-Email-c2392a?logo=Gmail&logoColor=white&style=flat-square)](mailto://weizhong2004@gmail.com) [![](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/shukebeta) [![](https://img.shields.io/badge/-RSS-ffa500?logo=RSS&logoColor=fff&style=flat-square)](https://blog.shukebeta.com/feed/) [![](https://img.shields.io/badge/-Telegram-2ca5e0?labelColor=fafafa&logo=Telegram&logoWidth=13&style=flat-square)](https://t.me/shukebeta)  [![](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/shukebeta)
 
 >   **Be positive, and always embrace changes**
+
+I have worked as a programmer / team leader for nearly 20 years, so spontaneously I have extensive software development experience in the industry. With a track record of initiative and dependability, I am familiar / skilled with all facets of the software development life cycle.
+
+- Attributes:
+
+» Strong analytical and organise skills  
+» Ability to get along with people at all levels  
+» Team player and accountable individual  
+» Strong trouble shooting skills  
+» Ability to work under pressure with minimal supervision  
+» Software quality and user experience focused  
+» Git expert  
+» Linux / Open source enthusiast  
+
+- Specialties
+
+Full Stack Development: C#, .NET Core, TypeScript, Vue / React / jQuery, PHP / Laravel, Microservices, RabbitMQ, SQL Server / MySQL, Entity Framework, NUnit / xUnit, Sphinx / ElasticSearch
+
+- DevOps: CI/CD, Jenkins, Docker
 
 ## 💻 Computer things 
 - I am experienced in C#/PHP/Javascript, which means I have been working on many projects using these languages. I am familiar with Python/Delphi/Java, which means I know their syntax very well, and have done some tiny projects with them. I also write scripts in Bash scripts that help me out from boring repetitive tasks.
