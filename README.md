@@ -36,7 +36,8 @@ Full Stack Development: C#, .NET Core, TypeScript, Vue / React / jQuery, PHP / L
 
 ## 🌀 Projects
 
-- [ytabc.com](https://ytabc.com) I am currently working on this cross-border e-commerce platform as a full stack developer. The backend of this project is using .NET Core 3.1 and the front-end of the project is using Vue.js.
+- [XE.com](https://xe.com) I was currently working on this cross-border e-commerce platform as a software developer mainly using C# and JavaScript. 
+- [ytabc.com](https://ytabc.com) I was previously working on this cross-border e-commerce platform as a full stack developer. The backend of this project is using .NET Core 3.1 and the front-end of the project is using Vue.js.
 - [corpus.shukebeta.com](https://corpus.shukebeta.com) This small project is actually an one PHP file project, but it's really useful for learning new words. You could easily find sample sentences for a specific word or phrase in English or Chinese in seconds. [show me the code](https://github.com/shukebeta/ec_corpus)
 
 ## 🤖 About me
