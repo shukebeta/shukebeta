@@ -44,6 +44,6 @@ Full Stack Development: C#, .NET Core, TypeScript, Vue / React / jQuery, PHP / L
 - Sometimes I think I am still a boy, though I am already a father of two boys.
 - I love playing Ingress game, hiking, and camping in my spare time.
 - I hold a post-study work visa that expires Feb. 2022, so I have the right work for any employer in New Zealand.
-- **I’m currently on the search for new opportunities and would love to collaborate.**
+- **I’m curently working at xe.com as a software developer, mostly focusing on .NET techniques on Windows platform.**
 
 This Readme.md page is inspired by [Queensfeery](https://github.com/queensferryme)
