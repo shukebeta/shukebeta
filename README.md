@@ -24,15 +24,15 @@ Full Stack Development: C#, .NET Core, TypeScript, Vue / React / jQuery, PHP / L
 - DevOps: CI/CD, Jenkins, Docker
 
 ## 💻 Computer things 
-- I am experienced in C#/PHP/Javascript, which means I have been working on many projects using these languages. I am familiar with Python/Delphi/Java, which means I know their syntax very well and have done some small projects with them. I also write scripts in Bash scripts that help me out from boring, repetitive tasks.
-- I know SVN very well, but Git is my favourite VCS tool. 
-- I love docker; if a service can be deployed by docker-compose, I would like to deploy it that way.
-- I find myself writing more and more backend code using node.js
-- I am the Chinese Translator of three programming books, which are:
+- I am experienced in C#/Javascript/PHP, which means I have been working on many projects using these languages. I am familiar with Python/Delphi/Java, which means I know their syntax very well and have done some small projects with them. I also write scripts in Bash scripts that help me out from boring, repetitive tasks.
+- Git is my favourite VCS tool since 2011. 
+- Docker is my love; if a service can be deployed by docker-compose, I would like to deploy it that way.
+- C# is the latest sharp tool in my toolbox, I mainly write C# code since 2020, while the secondary important language to me is Javascript.
+- Translating is my hobby, I translated and published three programming books, which are:
   - Pro PHP and jQuery (深入PHP与jQuery开发)
   - Pro jQuery (2nd) (精通 jQuery)
   - Smashing jQuery (精彩绝伦的jQuery)
-- I am also the technical Reviewer / Proofreader of the classic Javascript book “DOM Scripting” (Javascript DOM编程艺术第二版), I paid a lot of effort into these books, and I am happy that they have helped so many web developers. [Reference](https://www.ituring.com.cn/search/result?q=%E9%AD%8F%E5%BF%A0)
+- I am the technical Reviewer / Proofreader of the classic Javascript book “DOM Scripting” (Javascript DOM编程艺术第二版), I paid a lot of effort into these books, and I am happy that they have helped so many web developers. [Reference](https://www.ituring.com.cn/search/result?q=%E9%AD%8F%E5%BF%A0)
 
 ## 🌀 Projects
 
