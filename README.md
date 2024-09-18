@@ -4,7 +4,7 @@
 
 >   **Be positive, and always embrace changes**
 
-I have worked as a programmer/team leader for nearly 20 years, so spontaneously, I have extensive software development experience in the industry. With a track record of initiative and dependability, I am familiar/skilled with all facets of the software development life cycle.
+I have nearly 20 years of experience as a programmer and team leader, giving me extensive expertise in software development. I am dependable and proactive, with strong skills across all stages of the software development life cycle.
 
 - Attributes:
 
