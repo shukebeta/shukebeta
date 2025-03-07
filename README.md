@@ -36,7 +36,7 @@ Full Stack Development: C#, .NET Core, Flutter/Dart, TypeScript, Vue / React / j
 
 ## 🌀 Projects
 
-- [Happy Notes](https://happynotes.today) It is a note taking application that supports all mainstream platfroms, especially it supports to sync to Telegram channels with flexible rules.
+- [Happy Notes](https://happynotes.today) It is a note taking application that supports all mainstream platfroms, especially **it supports to sync to Telegram channels and Mastodon with flexible rules**.
 - [XE.com](https://xe.com) I am working on the core team in this well-known company, mainly using C# and JavaScript. 
 - [ytabc.com](https://ytabc.com) I worked on this cross-border e-commerce platform as a full-stack developer. The backend of this project uses .NET Core 3.1, and the front-end of the project uses Vue.js.
 - [corpus.shukebeta.com](https://corpus.shukebeta.com) This small project is a one PHP file project, but it’s really useful for learning new words. You could easily find sample sentences for a specific word or phrase in English or Chinese in seconds. [show me the code](https://github.com/shukebeta/ec_corpus)
