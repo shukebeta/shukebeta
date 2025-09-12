@@ -4,7 +4,7 @@
 
 >   **Be positive, and always embrace changes**
 
-I have nearly 20 years of experience as a programmer and team leader, giving me extensive expertise in software development. I am dependable and proactive, with strong skills across all stages of the software development life cycle.
+I have more than 20 years of experience as a programmer and team leader, giving me extensive expertise in software development. I am dependable and proactive, with strong skills across all stages of the software development life cycle.
 
 - Attributes:
 
