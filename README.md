@@ -1,50 +1,42 @@
-### Hi there, I am David. 👋
+# Hi, I'm David Wei 👋
 
-[![blog](https://blog.shukebeta.com/favicon.ico)](https://blog.shukebeta.com) [![](https://img.shields.io/badge/-Email-c2392a?logo=Gmail&logoColor=white&style=flat-square)](mailto://weizhong2004@gmail.com) [![](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/shukebeta) [![](https://img.shields.io/badge/-RSS-ffa500?logo=RSS&logoColor=fff&style=flat-square)](https://blog.shukebeta.com/feed/) [![](https://img.shields.io/badge/-Telegram-2ca5e0?labelColor=fafafa&logo=Telegram&logoWidth=13&style=flat-square)](https://t.me/shukebeta)  [![](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/shukebeta)
+**Senior .NET Engineer · Agentic AI Builder · Technical Lead**  
+Christchurch, New Zealand
 
->   **Be positive, and always embrace changes**
+I build reliable software systems and the engineering workflows that help teams deliver them well. I have 20+ years of production experience across financial services, web platforms, distributed systems, and developer tooling—and I am currently focused on practical, human-directed agentic engineering.
 
-I have more than 20 years of experience as a programmer and team leader, giving me extensive expertise in software development. I am dependable and proactive, with strong skills across all stages of the software development life cycle.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Wei-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-wei-83355a1/)
+[![Blog](https://img.shields.io/badge/Blog-shukebeta.com-111827?style=flat-square&logo=wordpress&logoColor=white)](https://blog.shukebeta.com)
+[![Email](https://img.shields.io/badge/Email-contact-c2392a?style=flat-square&logo=gmail&logoColor=white)](mailto:weizhong2004@gmail.com)
+[![CV](https://img.shields.io/badge/CV-Markdown-374151?style=flat-square&logo=readme&logoColor=white)](./CV.md)
 
-- Attributes:
+## What I work on
 
-» Strong analytical and organised skills  
-» Ability to get along with people at all levels  
-» Team player and accountable individual  
-» Strong troubleshooting skills  
-» Ability to work under pressure with minimal supervision  
-» Software quality and user experience focused  
-» Git expert  
-» Linux / Open source enthusiast  
+- **Agentic engineering systems** — design workflows that take a product conversation through specification, implementation, independent review, CI validation, and pull-request delivery.
+- **Technical leadership** — turn ambiguous work into small, reviewable increments with clear acceptance criteria, ownership, test scope, and delivery boundaries.
+- **Backend and platform engineering** — build and evolve C#/.NET services, APIs, web applications, and operational tooling for production environments.
 
-- Specialties
+## Featured project: my-ai-team (MAT)
 
-Full Stack Development: C#, .NET Core, Flutter/Dart, TypeScript, Vue / React / jQuery, PHP / Laravel, Microservices, RabbitMQ, SQL Server / MySQL, Entity Framework, NUnit / xUnit, Sphinx / ElasticSearch
+I founded and build [**my-ai-team**](https://github.com/SHUKE-LABS/my-ai-team), a commercial, GitHub-oriented multi-agent engineering product.
 
-- DevOps: CI/CD, Jenkins, Docker
+MAT is designed around a simple principle: people remain accountable for intent and judgement; agents help make delivery more systematic and verifiable. Its workflow includes:
 
-## 💻 Computer things 
-- I am experienced in C#/Javascript/PHP, which means I have been working on many projects using these languages. I am familiar with Python/Delphi/Java, which means I know their syntax very well and have done some small projects with them. I also write scripts in Bash scripts that help me out from boring, repetitive tasks.
-- Git is my favourite VCS tool since 2011. 
-- Docker is my love; if a service can be deployed by docker-compose, I would like to deploy it that way.
-- C# is the latest sharp tool in my toolbox, I mainly write C# code since 2020, while the secondary important language to me is Javascript.
-- Translating is my hobby, I translated and published three programming books, which are:
-  - Pro PHP and jQuery (深入PHP与jQuery开发)
-  - Pro jQuery (2nd) (精通 jQuery)
-  - Smashing jQuery (精彩绝伦的jQuery)
-- I am the technical Reviewer / Proofreader of the classic Javascript book “DOM Scripting” (Javascript DOM编程艺术第二版), I paid a lot of effort into these books, and I am happy that they have helped so many web developers. [Reference](https://www.ituring.com.cn/search/result?q=%E9%AD%8F%E5%BF%A0)
+- an **Explorer** quality gate that turns vague requests into high-cohesion engineering tickets;
+- separate delivery, audit, and technical-debate roles, so an implementation agent does not validate its own work;
+- orchestration for task ownership, agent quotas, durable state, CI validation, and recovery;
+- human-directed workflows that have produced approximately **2,000 pull requests**.
 
-## 🌀 Projects
-- [New Words](https://newwords.shukebeta.com) An application that helps people learn new words in foreign languages, which is AI based and supports all popular languages. 
-- [Happy Notes](https://happynotes.today) A note taking application that supports all mainstream platfroms, especially **it supports to sync to Telegram channels and Mastodon with flexible rules**.
-- [XE.com](https://xe.com) I am working on the core team in this well-known company, mainly using C# and JavaScript. 
-- [ytabc.com](https://ytabc.com) I worked on this cross-border e-commerce platform as a full-stack developer. The backend of this project uses .NET Core 3.1, and the front-end of the project uses Vue.js.
-- [corpus.shukebeta.com](https://corpus.shukebeta.com) This small project is a one PHP file project, but it’s really useful for learning new words. You could easily find sample sentences for a specific word or phrase in English or Chinese in seconds. [show me the code](https://github.com/shukebeta/ec_corpus)
+[Documentation](https://mat-docs.shukelabs.com) · [Source](https://github.com/SHUKE-LABS/my-ai-team)
 
-## 🤖 About me
-- I love straightforward communication and hate wasting time.
-- Sometimes, I think I am still a boy, though I am already a father of two boys.
-- I love playing [the Ingress](https://ingress.com/) game, hiking, and camping in my spare time.
-- **I’m currently working at xe.com as a software developer, mainly focusing on .NET techniques on the Windows platform.**
+## Experience
 
-This Readme.md page is inspired by [Queensfeery](https://github.com/queensferryme)
+Currently a Software Developer at [xe.com](https://www.xe.com), working across C#/.NET and .NET Core APIs, a complex WinForms application, and customer-facing React/JavaScript functionality supporting global currency-transfer workflows.
+
+Earlier roles span senior full-stack, backend, and technical leadership work with .NET, Node.js, PHP/Laravel, Vue, AWS, Docker, Jenkins, SQL, Redis, RabbitMQ, and Elasticsearch.
+
+## Technology focus
+
+`C#` · `.NET` · `Agentic workflows` · `LLM-assisted engineering` · `Technical design` · `TypeScript` · `React` · `Node.js` · `Python` · `Docker` · `CI/CD` · `AWS` · `Linux` · `Git`
+
+I am especially interested in senior engineering and technical-lead roles where AI is used to improve how software is specified, built, reviewed, and operated.
