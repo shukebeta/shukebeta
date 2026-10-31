@@ -14,7 +14,7 @@ Senior .NET engineer with 20+ years of production software experience across fin
 - Founded and built [my-ai-team (MAT)](https://github.com/SHUKE-LABS/my-ai-team), a commercial agentic engineering product that takes a product conversation through issue definition, implementation, independent review, and pull-request delivery.
 - Designed the Explorer quality gate: agents convert vague requests into small, high-cohesion engineering tickets with explicit acceptance criteria, test scope, and delivery boundaries before implementation starts.
 - Architected multi-agent delivery and governance workflows with separate delivery, audit, and technical-debate roles, reducing the risk of an implementation agent validating its own work.
-- Built orchestration tooling for task ownership, agent quotas, durable state, CI validation, and recovery from interrupted work; MAT has produced approximately 2,000 PRs in its own human-directed development workflows.
+- Built orchestration tooling for task ownership, agent quotas, durable state, CI validation, and recovery from interrupted work; MAT has produced 3,500+ PRs across its human-directed development workflows and other active projects.
 - Developing MAT-Cloud, a conversational product layer that lets founders and product managers create well-specified engineering work without operating a local agent harness.
 
 ## Professional experience
