@@ -25,7 +25,7 @@ MAT is designed around a simple principle: people remain accountable for intent 
 - an **Explorer** quality gate that turns vague requests into high-cohesion engineering tickets;
 - separate delivery, audit, and technical-debate roles, so an implementation agent does not validate its own work;
 - orchestration for task ownership, agent quotas, durable state, CI validation, and recovery;
-- human-directed workflows that have produced approximately **2,000 pull requests**.
+- human-directed workflows that have produced **3,500+ pull requests** across MAT and other active projects.
 
 [Documentation](https://mat-docs.shukelabs.com) · [Source](https://github.com/SHUKE-LABS/my-ai-team)
 
